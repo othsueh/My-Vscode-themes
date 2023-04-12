@@ -1,0 +1,22 @@
+{
+  "name": "othsueh-forest",
+  "publisher": "othsueh",
+  "displayName": "Othsueh_Forest",
+  "description": "Othsueh's first theme!",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Othsueh Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Othsueh forest-color-theme.json"
+      }
+    ]
+  }
+}
